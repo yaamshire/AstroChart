@@ -8,7 +8,7 @@
 	astrology.COLOR_BACKGROUND = "#fff";		 
 				
 	// Color of planet's symbols
-	astrology.POINTS_COLOR = "#000";
+	astrology.POINTS_COLOR = "#a29e9e";
 	
 	// Size of description text next to the planet: angle, retrograde, dignities, ...
 	astrology.POINTS_TEXT_SIZE = 8;
